@@ -82,7 +82,7 @@ Con los tiempos de descarga utilizados en el ejercicio:
 
 | Ejecución                   | Tiempo aproximado |
 | --------------------------- | ----------------: |
-| Secuencial                  |            25,0 s |
+| Secuencial                  |            26,0 s |
 | Concurrente                 |             6,0 s |
 | Concurrente con cancelación |            ~3,0 s |
 
